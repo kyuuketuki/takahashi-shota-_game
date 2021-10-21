@@ -1,0 +1,16 @@
+﻿  game.cpp
+c:\users\student\desktop\最新　マルチターゲット\game.cpp(258): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\最新　マルチターゲット\game.cpp(264): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\最新　マルチターゲット\game.cpp(284): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\最新　マルチターゲット\game.cpp(586): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\最新　マルチターゲット\game.cpp(650): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\最新　マルチターゲット\game.cpp(694): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\最新　マルチターゲット\game.cpp(843): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\最新　マルチターゲット\game.cpp(854): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\最新　マルチターゲット\game.cpp(865): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\最新　マルチターゲット\game.cpp(890): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\最新　マルチターゲット\game.cpp(901): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\最新　マルチターゲット\game.cpp(912): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\student\desktop\最新　マルチターゲット\game.cpp(1119): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Win32Project11.vcxproj -> C:\Users\student\Desktop\最新　マルチターゲット\Debug\Win32Project11.exe
+  Win32Project11.vcxproj -> C:\Users\student\Desktop\最新　マルチターゲット\Debug\Win32Project11.pdb (Full PDB)
