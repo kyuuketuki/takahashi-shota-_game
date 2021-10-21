@@ -1,0 +1,88 @@
+﻿  animation.cpp
+  bg.cpp
+  bullet.cpp
+bullet.cpp(209): warning C4553: '==': 演算子にプログラム上の作用がありません。'=' を意図しましたか?
+bullet.cpp(235): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+bullet.cpp(284): warning C4553: '==': 演算子にプログラム上の作用がありません。'=' を意図しましたか?
+bullet.cpp(311): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+bullet.cpp(360): warning C4553: '==': 演算子にプログラム上の作用がありません。'=' を意図しましたか?
+bullet.cpp(386): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+bullet.cpp(811): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+bullet.cpp(830): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+  camera.cpp
+  effect.cpp
+effect.cpp(66): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  enemy.cpp
+enemy.cpp(506): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+enemy.cpp(509): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+enemy.cpp(568): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+enemy.cpp(571): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+enemy.cpp(785): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+  explosion.cpp
+explosion.cpp(66): warning C4305: '引数': 'double' から 'float' へ切り詰めます。
+explosion.cpp(78): warning C4553: '==': 演算子にプログラム上の作用がありません。'=' を意図しましたか?
+  fade.cpp
+  game.cpp
+game.cpp(258): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+game.cpp(264): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+game.cpp(284): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  game2.cpp
+game2.cpp(334): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+game2.cpp(345): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+game2.cpp(508): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+game2.cpp(509): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+game2.cpp(510): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+game2.cpp(511): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
+game2.cpp(602): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+game2.cpp(623): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  gamepad.cpp
+  input.cpp
+  item.cpp
+  life.cpp
+  light.cpp
+  logo.cpp
+  main.cpp
+  manager.cpp
+  menu.cpp
+  meshfield.cpp
+  コンパイル中...
+  model.cpp
+  number.cpp
+  object3D.cpp
+  particle.cpp
+  pause.cpp
+  player.cpp
+  player3D.cpp
+player3D.cpp(385): warning C4101: 'matDef': ローカル変数は 1 度も使われていません。
+player3D.cpp(386): warning C4101: 'pMat': ローカル変数は 1 度も使われていません。
+  polygon.cpp
+  result.cpp
+  scene.cpp
+  renderer.cpp
+renderer.cpp(183): warning C4244: '=': 'float' から 'DWORD' への変換です。データが失われる可能性があります。
+renderer.cpp(184): warning C4244: '=': 'float' から 'DWORD' への変換です。データが失われる可能性があります。
+  scene2D.cpp
+  scene3D.cpp
+  sceneX.cpp
+  score.cpp
+  select.cpp
+  sound.cpp
+  title.cpp
+  tutorial.cpp
+animation.obj : error LNK2001: 外部シンボル "D3DXCreateTextureFromFileA" は未解決です。
+camera.obj : error LNK2001: 外部シンボル "D3DXMatrixLookAtLH" は未解決です。
+camera.obj : error LNK2001: 外部シンボル "D3DXMatrixPerspectiveFovLH" は未解決です。
+game.obj : error LNK2001: 外部シンボル "D3DXCreateFontA" は未解決です。
+gamepad.obj : error LNK2001: 外部シンボル "IID_IDirectInput8A" は未解決です。
+gamepad.obj : error LNK2001: 外部シンボル "c_dfDIJoystick" は未解決です。
+gamepad.obj : error LNK2001: 外部シンボル "DirectInput8Create" は未解決です。
+input.obj : error LNK2001: 外部シンボル "c_dfDIKeyboard" は未解決です。
+input.obj : error LNK2001: 外部シンボル "GUID_SysKeyboard" は未解決です。
+light.obj : error LNK2001: 外部シンボル "D3DXVec3Normalize" は未解決です。
+meshfield.obj : error LNK2001: 外部シンボル "D3DXMatrixRotationYawPitchRoll" は未解決です。
+meshfield.obj : error LNK2001: 外部シンボル "D3DXMatrixTranslation" は未解決です。
+meshfield.obj : error LNK2001: 外部シンボル "D3DXMatrixMultiply" は未解決です。
+model.obj : error LNK2001: 外部シンボル "D3DXLoadMeshFromXA" は未解決です。
+renderer.obj : error LNK2001: 外部シンボル "Direct3DCreate9" は未解決です。
+sceneX.obj : error LNK2001: 外部シンボル "D3DXGetFVFVertexSize" は未解決です。
+C:\Users\student\Desktop\C++ ゲーム作品\x64\Release\Win32Project11.exe : fatal error LNK1120: 16 件の未解決の外部参照
