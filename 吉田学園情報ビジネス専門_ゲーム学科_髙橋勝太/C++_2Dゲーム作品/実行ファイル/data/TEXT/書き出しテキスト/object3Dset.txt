@@ -1,0 +1,10 @@
+OBJECTSET
+	POSX = -3.0
+	POSY = 0.0
+	POSZ = -668.7
+	ROTX = 0.0
+	ROTY = 0.0
+	ROTZ = 0.0
+	TYPE = 8
+END_OBJECTSET
+
